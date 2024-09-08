@@ -1,0 +1,39 @@
+id,name,description,attribute_name,attribute_value
+f47ac10b-58cc-4372-a567-0e02b2c3d479,attacking,"Skills related to attacking abilities such as finishing and heading accuracy.",finishing,94
+f47ac10b-58cc-4372-a567-0e02b2c3d479,attacking,"Skills related to attacking abilities such as finishing and heading accuracy.",headingAccuracy,90
+f47ac10b-58cc-4372-a567-0e02b2c3d479,attacking,"Skills related to attacking abilities such as finishing and heading accuracy.",volleys,88
+f47ac10b-58cc-4372-a567-0e02b2c3d479,attacking,"Skills related to attacking abilities such as finishing and heading accuracy.",longShots,85
+f47ac10b-58cc-4372-a567-0e02b2c3d479,attacking,"Skills related to attacking abilities such as finishing and heading accuracy.",shotPower,91
+f47ac10b-58cc-4372-a567-0e02b2c3d479,attacking,"Skills related to attacking abilities such as finishing and heading accuracy.",attackingPositioning,93
+d9e06f25-dc2a-4efd-8f99-dd9f86b9a5ca,passing,"Skills related to passing abilities including short and long passing.",crossing,82
+d9e06f25-dc2a-4efd-8f99-dd9f86b9a5ca,passing,"Skills related to passing abilities including short and long passing.",shortPassing,81
+d9e06f25-dc2a-4efd-8f99-dd9f86b9a5ca,passing,"Skills related to passing abilities including short and long passing.",longPassing,77
+d9e06f25-dc2a-4efd-8f99-dd9f86b9a5ca,passing,"Skills related to passing abilities including short and long passing.",throughBalls,88
+d9e06f25-dc2a-4efd-8f99-dd9f86b9a5ca,passing,"Skills related to passing abilities including short and long passing.",freeKickAccuracy,85
+31671797-c52m-4a6d-820c-b0b0b0b0b0b0,dribbling,"Skills related to ball control and dribbling.",dribbling,87
+31671797-c52m-4a6d-820c-b0b0b0b0b0b0,dribbling,"Skills related to ball control and dribbling.",ballControl,92
+31671797-c52m-4a6d-820c-b0b0b0b0b0b0,dribbling,"Skills related to ball control and dribbling.",curve,83
+31671797-c52m-4a6d-820c-b0b0b0b0b0b0,dribbling,"Skills related to ball control and dribbling.",firstTouch,90
+31671797-c52m-4a6d-820c-b0b0b0b0b0b0,dribbling,"Skills related to ball control and dribbling.",skillMoves,88
+91671797-c52m-4a6d-820c-b0b0b0b0b0b0,defending,"Skills related to defensive abilities such as tackling and marking.",marking,32
+91671797-c52m-4a6d-820c-b0b0b0b0b0b0,defending,"Skills related to defensive abilities such as tackling and marking.",standingTackle,35
+91671797-c52m-4a6d-820c-b0b0b0b0b0b0,defending,"Skills related to defensive abilities such as tackling and marking.",slidingTackle,30
+91671797-c52m-4a6d-820c-b0b0b0b0b0b0,defending,"Skills related to defensive abilities such as tackling and marking.",interceptions,28
+91671797-c52m-4a6d-820c-b0b0b0b0b0b0,defending,"Skills related to defensive abilities such as tackling and marking.",defensiveAwareness,34
+91671797-c52m-4a6d-820c-b0b0b0b0b0b0,defending,"Skills related to defensive abilities such as tackling and marking.",blockingAbility,33
+01671797-c52m-4a6d-820c-b0b0b0b0b0b1,physical,"Physical attributes including speed, strength, and stamina.",acceleration,87
+01671797-c52m-4a6d-820c-b0b0b0b0b0b1,physical,"Physical attributes including speed, strength, and stamina.",sprintSpeed,89
+01671797-c52m-4a6d-820c-b0b0b0b0b0b1,physical,"Physical attributes including speed, strength, and stamina.",agility,85
+01671797-c52m-4a6d-820c-b0b0b0b0b0b1,physical,"Physical attributes including speed, strength, and stamina.",balance,74
+01671797-c52m-4a6d-820c-b0b0b0b0b0b1,physical,"Physical attributes including speed, strength, and stamina.",jumping,95
+01671797-c52m-4a6d-820c-b0b0b0b0b0b1,physical,"Physical attributes including speed, strength, and stamina.",stamina,81
+01671797-c52m-4a6d-820c-b0b0b0b0b0b1,physical,"Physical attributes including speed, strength, and stamina.",strength,84
+01671797-c52m-4a6d-820c-b0b0b0b0b0b1,physical,"Physical attributes including speed, strength, and stamina.",endurance,83
+01671797-c52m-4a6d-820c-b0b0b0b0b0b1,physical,"Physical attributes including speed, strength, and stamina.",flexibility,86
+a1671797-c52m-4a6d-820c-b0b0b0b0b0b1,mental,"Mental attributes including aggression, positioning, and composure.",aggression,63
+a1671797-c52m-4a6d-820c-b0b0b0b0b0b1,mental,"Mental attributes including aggression, positioning, and composure.",positioning,94
+a1671797-c52m-4a6d-820c-b0b0b0b0b0b1,mental,"Mental attributes including aggression, positioning, and composure.",vision,82
+a1671797-c52m-4a6d-820c-b0b0b0b0b0b1,mental,"Mental attributes including aggression, positioning, and composure.",composure,89
+a1671797-c52m-4a6d-820c-b0b0b0b0b0b1,mental,"Mental attributes including aggression, positioning, and composure.",reactions,92
+a1671797-c52m-4a6d-820c-b0b0b0b0b0b1,mental,"Mental attributes including aggression, positioning, and composure.",decisionMaking,88
+a1671797-c52m-4a6d-820c-b0b0b0b0b0b1,mental,"Mental attributes including aggression, positioning, and composure.",leadership,85

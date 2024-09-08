@@ -16,6 +16,7 @@
     "incremental": true,
     "baseUrl": ".",
     "paths": {
+      "@/backend/*": ["backend/*"],
       "@/components/*": ["components/*"],
       "@/lib/*": ["lib/*"]
     },
@@ -25,6 +26,6 @@
       }
     ]
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/(dashboard)/players"],
   "exclude": ["node_modules"]
 }

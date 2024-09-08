@@ -1,0 +1,418 @@
+{
+    "playerEvaluation": {
+      "competencyFramework": "Skills-Based Model",
+      "ratingScale": {
+        "1-3": "Needs Improvement: Rarely demonstrates the skill, requires significant development.",
+        "4-6": "Adequate: Occasionally demonstrates the skill, with room for growth.",
+        "7-9": "Proficient: Consistently demonstrates the skill at a high level.",
+        "10": "Excellent: Mastery of the skill, performs at an elite level."
+      },
+      "attributes": [
+        {
+          "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+          "name": "finishing",
+          "categories": [
+            {
+              "name": "alevin",
+              "behaviors": [
+                "Attempts to shoot accurately within the penalty box.",
+                "Understands when to shoot rather than pass."
+              ]
+            },
+            {
+              "name": "benjamin",
+              "behaviors": [
+                "Regularly takes shots on goal with improved accuracy.",
+                "Shows understanding of shot placement, not just power."
+              ]
+            },
+            {
+              "name": "juvenil",
+              "behaviors": [
+                "Effectively finishes scoring opportunities from different angles and distances.",
+                "Uses both feet for accurate and powerful finishing."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+          "name": "headingAccuracy",
+          "categories": [
+            {
+              "name": "alevin",
+              "behaviors": [
+                "Attempts to head the ball towards the goal.",
+                "Positions body properly for heading in set pieces."
+              ]
+            },
+            {
+              "name": "benjamin",
+              "behaviors": [
+                "Heads the ball with improved accuracy and direction.",
+                "Times jumps well to connect with crosses."
+              ]
+            },
+            {
+              "name": "juvenil",
+              "behaviors": [
+                "Executes powerful and accurate headers on goal from various situations.",
+                "Effectively uses body positioning and timing for heading opportunities."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+          "name": "volleys",
+          "categories": [
+            {
+              "name": "alevin",
+              "behaviors": [
+                "Attempts volleys in controlled situations.",
+                "Displays basic control when striking the ball mid-air."
+              ]
+            },
+            {
+              "name": "benjamin",
+              "behaviors": [
+                "Connects with volleys and maintains direction.",
+                "Positions body to control mid-air strikes effectively."
+              ]
+            },
+            {
+              "name": "juvenil",
+              "behaviors": [
+                "Executes accurate volleys under pressure during matches.",
+                "Strikes volleys with timing and precision from various ball heights."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a",
+          "name": "longShots",
+          "categories": [
+            {
+              "name": "alevin",
+              "behaviors": [
+                "Attempts long shots from outside the box.",
+                "Basic understanding of when to shoot from distance."
+              ]
+            },
+            {
+              "name": "benjamin",
+              "behaviors": [
+                "Shoots from distance with improving accuracy and power.",
+                "Consistently attempts shots from outside the penalty area."
+              ]
+            },
+            {
+              "name": "juvenil",
+              "behaviors": [
+                "Takes well-placed long shots with power and accuracy.",
+                "Uses different techniques to shoot effectively from distance."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
+          "name": "shotPower",
+          "categories": [
+            {
+              "name": "alevin",
+              "behaviors": [
+                "Attempts to shoot with power from close range.",
+                "Displays basic control over power in shots."
+              ]
+            },
+            {
+              "name": "benjamin",
+              "behaviors": [
+                "Shoots with power while maintaining some level of accuracy.",
+                "Generates power without losing control of the shot."
+              ]
+            },
+            {
+              "name": "juvenil",
+              "behaviors": [
+                "Consistently strikes powerful shots without sacrificing accuracy.",
+                "Generates power in shots from a variety of distances."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c",
+          "name": "attackingPositioning",
+          "categories": [
+            {
+              "name": "alevin",
+              "behaviors": [
+                "Understands basic attacking positions during set plays.",
+                "Shows awareness of open spaces in attack."
+              ]
+            },
+            {
+              "name": "benjamin",
+              "behaviors": [
+                "Positions well to receive passes in attacking areas.",
+                "Identifies and moves into dangerous positions for attacks."
+              ]
+            },
+            {
+              "name": "juvenil",
+              "behaviors": [
+                "Consistently positions well to exploit defensive weaknesses.",
+                "Anticipates play and moves into goal-scoring positions effectively."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b8c9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2e",
+          "name": "crossing",
+          "categories": [
+            {
+              "name": "alevin",
+              "behaviors": [
+                "Attempts basic crosses into the box.",
+                "Shows effort to lift the ball off the ground during crosses."
+              ]
+            },
+            {
+              "name": "benjamin",
+              "behaviors": [
+                "Delivers crosses with improving accuracy and timing.",
+                "Crosses the ball from wide areas to teammates in the box."
+              ]
+            },
+            {
+              "name": "juvenil",
+              "behaviors": [
+                "Consistently delivers accurate and well-timed crosses into dangerous areas.",
+                "Uses different crossing techniques depending on the game situation."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "c9d0e1f2-a3b4-4c5d-6e7f-8a9b0c1d2e3f",
+          "name": "shortPassing",
+          "categories": [
+            {
+              "name": "alevin",
+              "behaviors": [
+                "Performs short passes with basic control.",
+                "Passes accurately to teammates in close range."
+              ]
+            },
+            {
+              "name": "benjamin",
+              "behaviors": [
+                "Executes short passes consistently and accurately under pressure.",
+                "Combines short passes with teammates to progress the play."
+              ]
+            },
+            {
+              "name": "juvenil",
+              "behaviors": [
+                "Delivers accurate short passes under various levels of pressure.",
+                "Uses short passing to maintain possession and create opportunities."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "d0e1f2a3-b4c5-4d6e-7f8a-9b0c1d2e3f4a",
+          "name": "longPassing",
+          "categories": [
+            {
+              "name": "alevin",
+              "behaviors": [
+                "Attempts long passes with varying accuracy.",
+                "Shows understanding of when to attempt long-range passes."
+              ]
+            },
+            {
+              "name": "benjamin",
+              "behaviors": [
+                "Consistently delivers long passes with accuracy over distance.",
+                "Uses long passing to switch play effectively."
+              ]
+            },
+            {
+              "name": "juvenil",
+              "behaviors": [
+                "Executes precise long-range passes that change the flow of play.",
+                "Accurately delivers long balls under pressure, both on the ground and in the air."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "e1f2a3b4-c5d6-4e7f-8a9b-0c1d2e3f4a5b",
+          "name": "throughBalls",
+          "categories": [
+            {
+              "name": "alevin",
+              "behaviors": [
+                "Attempts through balls with basic control.",
+                "Shows understanding of passing between defenders."
+              ]
+            },
+            {
+              "name": "benjamin",
+              "behaviors": [
+                "Plays through balls with improving timing and accuracy.",
+                "Understands when to release a through ball to forwards."
+              ]
+            },
+            {
+              "name": "juvenil",
+              "behaviors": [
+                "Consistently delivers well-timed and accurate through balls.",
+                "Breaks defensive lines with precise through passes."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "f2a3b4c5-d6e7-4f8a-9b0c-1d2e3f4a5b6c",
+          "name": "freeKickAccuracy",
+          "categories": [
+            {
+              "name": "alevin",
+              "behaviors": [
+                "Attempts to take free kicks with basic power and accuracy.",
+                "Shows understanding of aiming towards the goal from free kicks."
+              ]
+            },
+            {
+              "name": "benjamin",
+              "behaviors": [
+                "Takes free kicks with improving placement and power.",
+                "Shows accuracy in placing free kicks towards dangerous areas."
+              ]
+            },
+            {
+              "name": "juvenil",
+              "behaviors": [
+                "Consistently takes accurate free kicks with control and precision.",
+                "Uses different free kick techniques depending on the distance and angle."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "d2e3f4g5-h6i7-4j8k-9l0m-1n2o3p4q5r6s",
+          "name": "dribbling",
+          "categories": [
+            {
+              "name": "alevin",
+              "behaviors": [
+                "Attempts to dribble past opponents with basic control.",
+                "Keeps the ball close when dribbling at slow speeds."
+              ]
+            },
+            {
+              "name": "benjamin",
+              "behaviors": [
+                "Dribbles past defenders with improving confidence and speed.",
+                "Shows ability to change direction and beat opponents while dribbling."
+              ]
+            },
+            {
+              "name": "juvenil",
+              "behaviors": [
+                "Effectively dribbles past multiple defenders at speed.",
+                "Maintains control while dribbling in tight spaces under pressure."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "e3f4g5h6-i7j8-4k9l-0m1n-2o3p4q5r6s7t",
+          "name": "ballControl",
+          "categories": [
+            {
+              "name": "alevin",
+              "behaviors": [
+                "Controls the ball with basic technique after receiving passes.",
+                "Keeps the ball close when controlling it under pressure."
+              ]
+            },
+            {
+              "name": "benjamin",
+              "behaviors": [
+                "Controls the ball well with the first touch under different situations.",
+                "Demonstrates ball control at speed while attacking."
+              ]
+            },
+            {
+              "name": "juvenil",
+              "behaviors": [
+                "Consistently controls the ball with the first touch in fast-paced situations.",
+                "Shows advanced ball control under various game pressures and contexts."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "f4g5h6i7-j8k9-4l0m-1n2o-3p4q5r6s7t8u",
+          "name": "curve",
+          "categories": [
+            {
+              "name": "alevin",
+              "behaviors": [
+                "Attempts to curve the ball while passing or shooting.",
+                "Shows understanding of bending the ball towards targets."
+              ]
+            },
+            {
+              "name": "benjamin",
+              "behaviors": [
+                "Uses curve in passing or shooting with improving accuracy.",
+                "Consistently bends the ball around opponents during play."
+              ]
+            },
+            {
+              "name": "juvenil",
+              "behaviors": [
+                "Accurately curves the ball to beat defenders or the goalkeeper.",
+                "Uses advanced curve techniques in passes and shots to create chances."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "g5h6i7j8-k9l0-4m1n-2o3p-4q5r6s7t8u9v",
+          "name": "firstTouch",
+          "categories": [
+            {
+              "name": "alevin",
+              "behaviors": [
+                "Attempts to control the ball quickly after receiving it.",
+                "Basic understanding of setting up the next move with the first touch."
+              ]
+            },
+            {
+              "name": "benjamin",
+              "behaviors": [
+                "Controls the ball cleanly with the first touch in different scenarios.",
+                "Uses first touch to create space and avoid pressure."
+              ]
+            },
+            {
+              "name": "juvenil",
+              "behaviors": [
+                "Consistently makes smart and accurate first touches under pressure.",
+                "Uses first touch to turn or move the ball into advantageous positions."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
